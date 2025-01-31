@@ -46,7 +46,7 @@
 
   > StickyHeader UI 영상
 
-  https://github.com/user-attachments/assets/7d78a6de-2f99-41f1-a4cf-e8414f9fa579
+  https://github.com/user-attachments/assets/e9b7f7c4-2cd1-484f-9b22-0309af0fed47
 
 --------
 
