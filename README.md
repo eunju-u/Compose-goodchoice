@@ -1,4 +1,4 @@
-![Screenshot_20250116_153232](https://github.com/user-attachments/assets/24116aba-b88c-46a1-8bf5-f9ddb532ef07)
+
 
 # 여기어때 클론 앱
 
