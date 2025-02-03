@@ -57,7 +57,7 @@
 
   > Naver 지도 영상
 
-  https://github.com/user-attachments/assets/1ac79d90-7cc2-4ee5-8edc-ea45c3e1fde3
+  https://github.com/user-attachments/assets/28ef1c5d-2369-46d3-8462-059908e12cbe
 
 --------
 
@@ -89,7 +89,7 @@
 
   > 상세화면 영상
   
-  https://github.com/eunju-u/dddddd/assets/55544506/f8abd86f-7a51-475e-82fa-92ab561a1871
+  https://github.com/user-attachments/assets/31323283-a2ca-4b79-b6a5-102bb2f0397b
 
 --------
 
@@ -108,7 +108,7 @@
 
   > 최근 본 상품 영상
   
-  https://github.com/eunju-u/Compose-goodchoice/assets/55544506/e730e37c-9a8e-4082-8738-d000d3ad7e45
+  https://github.com/user-attachments/assets/d7c10fdb-8f7f-48c2-94ae-14add9819aa7
 
 --------
 
@@ -120,7 +120,7 @@
 
   > 찜 영상
   
-  https://github.com/eunju-u/Compose-goodchoice/assets/55544506/9afdb4ef-799a-4687-9191-49b137c1204b
+  https://github.com/user-attachments/assets/efbbfce4-7160-4a71-bc46-7a5dd1acab7d
 
 --------
 
